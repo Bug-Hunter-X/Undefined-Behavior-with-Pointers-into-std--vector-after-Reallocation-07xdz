@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error involving the use of pointers or iterators into a `std::vector` after the vector has been resized or reallocated.  This can lead to undefined behavior. The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides a corrected version.
